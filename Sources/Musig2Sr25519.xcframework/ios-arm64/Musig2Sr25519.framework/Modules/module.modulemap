@@ -1,0 +1,11 @@
+framework module Musig2Sr25519 {
+  umbrella header "Musig2Sr25519.h"
+
+  export *
+  module * { export * }
+}
+
+module Musig2Sr25519.Swift {
+    header "Musig2Sr25519-Swift.h"
+    requires objc
+}
