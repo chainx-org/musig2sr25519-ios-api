@@ -2,7 +2,7 @@
 //  Musig2Sr25519.h
 //  Musig2Sr25519
 //
-//  Created by daiwei on 2021/10/22.
+//  Created by daiwei on 2021/11/10.
 //
 
 #import <Foundation/Foundation.h>
